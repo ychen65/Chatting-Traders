@@ -18,7 +18,7 @@ You shall be able to produce all deliverables in one program by applying appropr
 You must use Pandas. You may not use CSV readers or any low-level Python tools to read files. You may not use any loops or list comprehensions over table rows. (Loops over columns may be allowed, if necessary.)
 '''
 
-# Chenyu Wang 
+# Yongqiang Chen
 # Import pandas and os to access files
 import pandas as pd
 import os
